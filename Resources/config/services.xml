@@ -4,7 +4,7 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services https://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <services>
-        <service id="SM2i\FileUploadBundle\UploadHandler\UploadHandler" public="false">
+        <service id="TuxGasy\FileUploadBundle\UploadHandler\UploadHandler" public="false">
             <argument type="service" id="request_stack" />
             <argument type="service" id="form.factory" />
             <argument type="service" id="translator" />

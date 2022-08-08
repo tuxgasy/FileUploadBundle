@@ -1,6 +1,6 @@
 <?php
 
-namespace SM2i\FileUploadBundle;
+namespace TuxGasy\FileUploadBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

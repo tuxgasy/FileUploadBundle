@@ -1,6 +1,6 @@
 <?php
 
-namespace SM2i\FileUploadBundle\UploadHandler;
+namespace TuxGasy\FileUploadBundle\UploadHandler;
 
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;

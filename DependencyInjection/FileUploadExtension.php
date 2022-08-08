@@ -1,6 +1,6 @@
 <?php
 
-namespace SM2i\FileUploadBundle\DependencyInjection;
+namespace TuxGasy\FileUploadBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

@@ -1,0 +1,19 @@
+{
+    "name": "tuxgasy/file-upload-bundle",
+    "version": "1.0.1",
+    "type": "symfony-bundle",
+    "description": "Symfony Bundle for JQuery File Upload",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Garcia MICHEL",
+            "email": "garcia@soamichel.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TuxGasy\\FileUploadBundle\\": ""
+        }
+    }
+}
